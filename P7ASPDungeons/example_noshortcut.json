@@ -1,0 +1,27 @@
+{
+  "Solver": "clingo version 4.5.0",
+  "Input": [
+    "-","meta.lp","metaD.lp","metaO.lp","metaS.lp"
+  ],
+  "Call": [
+    {
+
+    }
+  ],
+  "Result": "UNKNOWN",
+  "INTERRUPTED": 1,
+  "Models": {
+    "Number": 0,
+    "More": "yes"
+  },
+  "Calls": 1,
+  "Time": {
+    "Total": 0.054,
+    "Solve": 0.000,
+    "Model": 0.000,
+    "Unsat": 0.000,
+    "CPU": 0.047
+  },
+  "Threads": 4,
+  "Winner": 0
+}
